@@ -31,6 +31,7 @@
 "..\..\output\bsp_generaltim.o"
 "..\..\output\ds18b20.o"
 "..\..\output\timer.o"
+"..\..\output\bsp_key.o"
 --library_type=microlib --strict --scatter "..\..\Output\TIM—通用定时器-4路PWM输出.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

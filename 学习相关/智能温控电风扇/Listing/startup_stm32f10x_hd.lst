@@ -553,12 +553,12 @@ ARM Macro Assembler    Page 9
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
 ork --depend=..\..\output\startup_stm32f10x_hd.d -o..\..\output\startup_stm32f1
-0x_hd.o -IC:\Users\WQH\Desktop\智能温控电风扇\Project\RVMDK（uv5）\RTE -I"E:\ke
-il 5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0" -I"E:\keil 5\ARM\CMSIS\Include" -I"E:\k
-eil 5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include" --predefine="__MICROLIB
- SETA 1" --predefine="__UVISION_VERSION SETA 514" --predefine="STM32F10X_HD SET
-A 1" --list=..\..\listing\startup_stm32f10x_hd.lst ..\..\Libraries\CMSIS\startu
-p\startup_stm32f10x_hd.s
+0x_hd.o -IC:\Users\27953\Desktop\STM32\学习相关\智能温控电风扇\Project\RVMDK（u
+v5）\RTE -IG:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0 -IG:\Keil_v5\ARM\CMSIS\
+Include -IG:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include --predefi
+ne="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 514" --predefine="ST
+M32F10X_HD SETA 1" --list=..\..\listing\startup_stm32f10x_hd.lst ..\..\Librarie
+s\CMSIS\startup\startup_stm32f10x_hd.s
 
 
 
